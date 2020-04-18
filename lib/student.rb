@@ -7,4 +7,3 @@ self.column_names.each do |column_name|
     attr_accessor column_name.to_sym
   end 
 end
-end
